@@ -76,7 +76,7 @@ Instantly reach all players with updates, promotions, or special events via the 
 # User Analytics: 
 View user statistics and engagement data to make data-driven improvements.
 
-# Character & Ad Management (Extended License): 
+# Character & Ad Management: 
 Customize characters and ad placements to increase monetization potential.
 
 # Referral & Social Link Management: 
